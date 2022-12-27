@@ -1,0 +1,29 @@
+img {
+                    position: fixed;
+                    margin-top: -10px;
+                    margin-left:-10px ;
+                    opacity: 0.7;
+                    position: relative;
+}
+.center{
+                position: absolute;
+                bottom: 18rem;
+                left: 48%;
+                display: inline-block;
+                border: 2px  solid black;
+                
+
+}
+.bi{
+                    margin-left: -11.7rem;
+
+}
+.signupform{
+                    
+            /* Add a transparency to the background
+               using rgba value */
+            background: rgba(255, 255, 255, 0.1);
+ 
+            /* Add a transparency to shadow */
+            box-shadow: 0 26px 42px rgba(0, 0, 0, 0.1);
+}
